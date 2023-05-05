@@ -4,7 +4,7 @@ The notebook give step-by-step example on how to use the `ipywidgets` `FloatSild
 
 - Examples: [ipywidgets @ read the docs - examples >> interact()](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
 
-- Installtion: [ipywidgets @ read the docs - Installation](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
+- Installation: [ipywidgets @ read the docs - Installation](https://ipywidgets.readthedocs.io/en/stable/examples/Using%20Interact.html)
 
 
 ## imports
