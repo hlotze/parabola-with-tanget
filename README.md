@@ -20,9 +20,9 @@ from matplotlib.lines import Line2D
 
 ## The diagram as a function by `matplotlib` figure
 Approach to make your diagram / figure by a fuction: 
-  1. initallay just code you `matplotlib` based diagram / figure 
+  1. initally just code you `matplotlib` based diagram / figure 
   2. indent that block
-  3. before 1st line: make a `def fuction(parameters):` line
+  3. before 1st line: make a `def function(parameters):` line
   4. add a return; the `return(plt.show()`
 
 you will get somthing like
@@ -43,7 +43,7 @@ show_diagramm(0)
 ![the figure](png/figure.png)
 
 ## `FloatSlider`
-With the  `FloatSlider` you can manipulate the parameter for displaying your figure.
+With the `FloatSlider` you can manipulate the parameter for displaying your figure.
 
 Use `widget.interact(<function_name>, <variable> = (min, max))`
 
