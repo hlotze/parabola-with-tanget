@@ -19,7 +19,7 @@ from matplotlib.lines import Line2D
 ``` 
 
 ## The diagram as a function by `matplotlib` figure
-Approach to make your diagram / figure by a fuction: 
+Approach to make your diagram / figure by a function: 
   1. initally just code you `matplotlib` based diagram / figure 
   2. indent that block
   3. before 1st line: make a `def function(parameters):` line
