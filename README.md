@@ -22,7 +22,7 @@ from matplotlib.lines import Line2D
 Approach to make your diagram / figure by a function: 
   1. initally just code you `matplotlib` based diagram / figure 
   2. indent that block
-  3. before 1st line: make a `def function(parameters):` line
+  3. before 1st line: make a `def function(parameters):`
   4. add a return; the `return(plt.show()`
 
 you will get somthing like
